@@ -2,7 +2,7 @@
 
 void main(void) {
 		
-	whitecow();
+	white();
 	dog();
 	turtle();
 
