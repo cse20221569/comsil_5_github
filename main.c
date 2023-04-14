@@ -4,6 +4,6 @@ void main(void) {
 		
 	whitecow();
 	dog();
-	turtle();
+	tur();
 
 }
