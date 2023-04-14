@@ -2,8 +2,8 @@
 
 void main(void) {
 		
-	cow();
+	whitecow();
 	dog();
-	turtle();
+	tur();
 
 }
