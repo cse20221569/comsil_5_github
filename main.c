@@ -3,7 +3,7 @@
 void main(void) {
 		
 	blackcow();
-	cat();
+	();
 	turtle();
 
 }
